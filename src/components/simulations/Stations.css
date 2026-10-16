@@ -1,0 +1,8 @@
+/* Styling tokens and animations for Simulation Stations */
+.sim-station-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
